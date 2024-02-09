@@ -34,4 +34,4 @@
 
   </details>
 
-<!-- It's not actually 30Days Of React i just name it so that people will learn React to new which is vite not the old one which is create-react-app -->
+<!-- It's not actually 30Days Of React I just name it so that people will learn New React which is vite not the old one which is create-react-app  -->

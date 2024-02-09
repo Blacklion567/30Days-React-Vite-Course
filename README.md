@@ -1,4 +1,4 @@
-# 30Days-React-Course-2024# React-The-Complete-Guide-2023
+# 30Days-React-Course-2024
 
 <!-- Icon sections -->
 
@@ -33,3 +33,5 @@
   - Get started with React Unit Testing
 
   </details>
+
+<!-- It's not actually 30Days Of React i just name it so that people will learn React to new which is vite not the old one which is create-react-app -->

@@ -1,4 +1,4 @@
-# 30Days-React-Course-2024
+# 30Days-React-Course-Vite
 
 <!-- Icon sections -->
 
@@ -13,6 +13,57 @@
 
 <br>
 
+# 30Days React Vite Course Repository
+
+Welcome to the 30Days React Vite Course repository! This repository contains the source code and materials for a 30-day course on React and Vite, aiming to help developers learn and master these technologies in a practical and hands-on manner.
+
+## Table of Contents
+
+- [30Days-React-Course-Vite](#30days-react-course-vite)
+- [30Days React Vite Course Repository](#30days-react-vite-course-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Course Content](#course-content)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Course resourses](#course-resourses)
+
+## Overview
+
+This course is designed to provide a comprehensive and structured approach to learning React and Vite. Each day covers different aspects of React and Vite, gradually building up your skills and understanding of these powerful technologies.
+
+## Course Content
+
+The course content is organized into 30 days, covering the following topics:
+
+1. **Day 1-5:** Introduction to React Basics
+2. **Day 6-10:** Advanced React Concepts
+3. **Day 11-15:** Vite Fundamentals
+4. **Day 16-20:** React and Vite Integration
+5. **Day 21-25:** Building Real-World Projects
+6. **Day 26-30:** Deployment and Optimization
+
+Feel free to explore the course materials and source code for each day in the respective directories.
+
+## Getting Started
+
+To get started with the 30Days React Vite Course, follow the instructions below:
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm (Node Package Manager)
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Blacklion567/30Days-React-Vite-Course.git
 <!-- Course resources section -->
 
 ## [Course resourses](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
